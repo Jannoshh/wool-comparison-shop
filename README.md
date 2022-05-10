@@ -17,3 +17,5 @@ Die offensichtlichsten Probleme der Software:
   dem requests Modul (requests.get(…)) verwendet werden. Ursache dafür muss noch herausgefunden werden.
   Asynchrone Anfragen würden es auf jeden Fall deutlich beschleunigen.
 - Unterstützt keine Vorbestellungen (ich habe keine Wolle gefunden, die vorbestellt werden kann).
+
+Ich habe 3.5-4 Stunden gebraucht, da ich noch eine Weile versucht habe die Performance zu verbessern.
